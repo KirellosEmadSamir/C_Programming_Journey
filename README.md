@@ -1,56 +1,55 @@
-C Programming Journey
+# C Programming Journey
 
-Welcome to C Programming Journey.
-This repository is a collection of simple and practical C programs created to help you learn the C language step by step through real practice.
+Welcome to C Programming Journey.  
+This repository is a collection of simple and practical C programs designed to help you learn the C language step by step through hands-on practice.
 
-The focus here is not just writing code, but understanding how things work and how to think like a programmer.
+The goal is not just to write code, but to understand how programs work and how to think logically like a programmer.
 
-What You Will Learn
+---
 
-Basic syntax and program structure
+## What You Will Learn
 
-Variables, data types, and operators
+- Basic C syntax and program structure  
+- Variables, data types, and operators  
+- Conditions and loops  
+- Functions and modular programming  
+- Arrays, strings, and pointers  
+- Problem solving and logical thinking using C  
 
-Conditions and loops
+---
 
-Functions and modular programming
+## Repository Structure
 
-Arrays, strings, and pointers
+The programs in this repository are organized in a gradual and progressive way.  
+You will start with very basic concepts and slowly move toward more challenging problems.
 
-Problem solving using C
+Each program focuses on one idea at a time, making learning clear, simple, and enjoyable.
 
-Repository Structure
+---
 
-The projects in this repository are organized in a progressive way.
-You start with very simple programs and gradually move toward more challenging ones.
-
-Each program focuses on one concept at a time, making learning clear and stress-free.
-
-Who This Repository Is For
+## Who This Repository Is For
 
 This repository is suitable for:
+- Beginners learning the C programming language  
+- Engineering students  
+- Anyone preparing for embedded systems development  
+- Anyone who wants to strengthen problem-solving skills  
 
-Beginners learning the C programming language
+---
 
-Engineering students
+## How to Use This Repository
 
-Anyone preparing for embedded systems
+1. Start with the earliest programs  
+2. Read the code and try to understand it  
+3. Run the program and observe the output  
+4. Modify the code and experiment  
+5. Try writing your own solution  
 
-Anyone who wants to improve logical thinking
+Real learning happens when you practice.
 
-How to Use This Repository
+---
 
-Start with the first programs
+## Support
 
-Read the code carefully and run it
-
-Modify the code and experiment
-
-Try to write your own version
-
-Learning happens when you practice.
-
-Support
-
-If this repository helps you on your learning journey, consider giving it a star.
-Happy coding and enjoy the process.
+If this repository helps you in your learning journey, consider giving it a star.  
+Happy coding and enjoy learning C.
